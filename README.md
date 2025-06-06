@@ -28,28 +28,26 @@ A full-stack To-Do List web application built using **React**, **Node.js**, **Ex
 
 1. Navigate to the backend folder:
    ```bash
-   cd backend
+   -cd backend
 2.Install dependencies
-   npm install
+   -npm install
 3. Create a .env file
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-JWT_SECRET=your_secret_key
+-MONGO_URI=your_mongodb_connection_string
+-PORT=5000
+
 4. Start the server
-    node index.js
+    -node index.js
 ### Frontend Setup
 1. Navigate to the frontend folder
-    cd frontend
+    -cd frontend
 2. Install dependencies
-     npm install
+     -npm install
 3. Start the react developement server
-     npm start
+     -npm start
 
 🛠️ Tech Stack
 Frontend: React, Tailwind CSS, Axios, React Router DOM
-
 Backend: Node.js, Express.js, MongoDB, Mongoose
-
 Database: MongoDB Atlas (or Local MongoDB)
 
 project/
@@ -59,7 +57,6 @@ project/
 │   ├── routes/
 │   └── server.js
 │   
-│
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
