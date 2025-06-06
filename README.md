@@ -66,8 +66,10 @@ Database: MongoDB Atlas (or Local MongoDB)
 
 
 project/
+|
 │
-├── backend/
+├
+|── backend/
 │   ├── models/
 │   ├── routes/
 │   └── server.js
