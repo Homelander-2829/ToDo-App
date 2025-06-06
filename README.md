@@ -56,9 +56,12 @@ A full-stack To-Do List web application built using **React**, **Node.js**, **Ex
      -npm start
    ```
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
+
 Frontend: React, Tailwind CSS, Axios, React Router DOM
-Backend: Node.js, Express.js, MongoDB, Mongoose
+
+Backend: Node.js, Express.js, MongoDB, Mongoose\
+
 Database: MongoDB Atlas (or Local MongoDB)
 
 project/
