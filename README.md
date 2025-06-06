@@ -44,11 +44,17 @@ A full-stack To-Do List web application built using **React**, **Node.js**, **Ex
    ```
 ### Frontend Setup
 1. Navigate to the frontend folder
+   ```bash
     -cd frontend
+   ```
 2. Install dependencies
+```bash
      -npm install
+```
 3. Start the react developement server
+   ```bash
      -npm start
+   ```
 
 🛠️ Tech Stack
 Frontend: React, Tailwind CSS, Axios, React Router DOM
