@@ -30,7 +30,9 @@ A full-stack To-Do List web application built using **React**, **Node.js**, **Ex
    ```bash
    -cd backend
 2.Install dependencies
+```bash
    -npm install
+```
 3. Create a .env file
 -MONGO_URI=your_mongodb_connection_string
 -PORT=5000
