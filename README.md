@@ -34,10 +34,11 @@ A full-stack To-Do List web application built using **React**, **Node.js**, **Ex
    -npm install
 ```
 3. Create a .env file
+   ```ini
 -MONGO_URI=your_mongodb_connection_string
 -PORT=5000
-
-4. Start the server
+```
+5. Start the server
     -node index.js
 ### Frontend Setup
 1. Navigate to the frontend folder
