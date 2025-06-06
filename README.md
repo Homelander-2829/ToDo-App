@@ -63,19 +63,3 @@ Frontend: React, Tailwind CSS, Axios, React Router DOM
 Backend: Node.js, Express.js, MongoDB, Mongoose\
 
 Database: MongoDB Atlas (or Local MongoDB)
-
-
-project/
-|
-│
-├
-|── backend/
-│   ├── models/
-│   ├── routes/
-│   └── server.js
-│   
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   └── App.js
-│   └── tailwind.config.js
